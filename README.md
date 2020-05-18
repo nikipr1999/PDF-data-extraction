@@ -15,6 +15,7 @@ There are many python packages to play with pdf files namely:
 - Cropping pages
 - Merging multiple pages into a single page
 - Encrypting and decrypting PDF file
+
 Check [Working with PyPDF2](https://github.com/nikipr1999/PDF-data-extraction/blob/master/PyPDF2.ipynb)
 
 ## PDFMiner
