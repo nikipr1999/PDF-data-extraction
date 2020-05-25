@@ -23,5 +23,5 @@ Check [Working with PDFMiner](https://github.com/nikipr1999/PDF-data-extraction/
 
 ###### [Using PyPDF2 with local and online pdfs and saving the text in a .txt file](https://github.com/nikipr1999/PDF-data-extraction/blob/master/data-extracter-utility/pypdf2.py)
 
-###### [Converting data of PDF file (both local and online pdfs to txt, json and html files](https://github.com/nikipr1999/PDF-data-extraction/blob/master/data-extracter-utility/pdfminer_work3.py)
+###### [Converting data of PDF file (both local and online pdfs to txt, json and html files usinf PDFMiner](https://github.com/nikipr1999/PDF-data-extraction/blob/master/data-extracter-utility/pdfminer_work3.py)
 
